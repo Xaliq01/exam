@@ -1,0 +1,154 @@
+.r_pic{
+    width: 100%;
+    min-height:650px;
+    float: left;
+    background-image: url('../img/JBL_PULSE3_HERO_BLACK_0582_x3-1605x1605px.png');
+    background-size: cover;
+    background-position: right;
+}
+.r_nav{
+    width: 100%;
+    min-height: 100px;
+    float: left;
+    /* background-color: black; */
+}
+.r_text{
+    width: 100%;
+    min-height: 550px;
+    float: left;
+    /* background-color: aqua; */
+}
+.mar0{
+    margin: 0;
+}
+.r_mar{
+    /* margin:0 0 0 130px ; */
+}
+.r_icons{
+    width: 100%;
+    min-height: 150px;
+    float: left;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rName{
+    width: 100%;
+    min-height: 100px;
+    float: left;
+    /* background-color: aquamarine; */
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    padding: 0 0 0 75px;
+}
+
+.r_menu{
+    width: 100%;
+    min-height: 100px;
+    float: left;
+    /* background-color: bisque; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Rright{
+    width: 100%;
+    min-height: 100px;
+    float: left;
+    /* background-color:fuchsia ; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 125px 0 0;
+}
+.r_menu ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.r_menu ul li{
+    float: left;
+
+}
+.r_menu ul li a{
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;  
+    margin-left: 15px;
+}
+.Rright ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.Rright ul li{
+    float: left;
+
+}
+.Rright ul li a{
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;  
+    margin-left: 10px;
+}
+.Rright ul i{
+    color: black;
+    margin-left: 7px;
+}
+.mainText{
+    width: 300px;
+    min-height: 450px;
+    float: left;
+    /* background-color: brown; */
+    color: white;
+    margin: 75px 0 0 150px;
+}
+.mainText h1{
+    text-transform: uppercase;
+}
+.mainText button{
+   width: 150px; 
+   height: 50px;
+   background-color: #23856D;
+}
+.MinText{
+    width: 200px;
+    min-height: inherit;
+    float: left;
+    /* background-color: teal; */
+    margin-right: 35px;
+}
+.minIcon{
+    width: 60px;
+    min-height: inherit;
+    float: left;
+    /* background-color: gold; */
+    font-size: 35px;
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    color: black;
+}
+.oglav{
+    width: calc(100% - 60px);
+    min-height:50px ;
+    float: left;
+    /* background-color: palevioletred; */
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.text{
+    width: calc(100% - 60px);
+    min-height: 90px;
+    float: left;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
